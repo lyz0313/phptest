@@ -1,7 +1,7 @@
-<!--
+﻿<!--
 <?php
 
-//造一个mysqli对象，造连接对象
+//造一个mysqli对象，造连接对象okok
 $db=new MySQLi("localhost","root","aaa052460","test");
 //括号里面填的是IP地址域名，用户名，密码，数据库的名字
 
